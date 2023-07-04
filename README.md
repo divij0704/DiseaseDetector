@@ -4,3 +4,8 @@
 We have used Anvil to implement the code on a web application.
 
 Built Application using Anvil : https://disease-detector.anvil.app/
+
+![image](https://github.com/divij0704/DiseaseDetector/assets/79760292/7d952205-da01-468e-ab61-d6cc155c9dcd)
+
+![image](https://github.com/divij0704/DiseaseDetector/assets/79760292/d36aacb1-7194-4180-addf-c00d2cd8ff76)
+
